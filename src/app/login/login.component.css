@@ -1,0 +1,14 @@
+.reg{
+    border-style: groove;
+   margin-left: 300px;
+   margin-right: 300px;
+   background-color: burlywood;
+   }
+   .Institution-Name{
+       place-content: unset;
+   }
+   .images{
+       width:500px;height:250px;
+   }
+   
+   
